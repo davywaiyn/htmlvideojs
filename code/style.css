@@ -1,0 +1,19 @@
+<!-- responsive view setup -->
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.videoWrapper {
+	width: 50vw;
+	height: 21vw;
+}
+
+
+<!-- setting up js -->
+.video-js {
+	width: 100%;
+	height: 100%;
+}
